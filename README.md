@@ -68,7 +68,7 @@ Budget: 900.00 seconds | Deadline: 1771434452.45
 - Implemented the LLM pipeline
 - Implemented entropy voting and experiment code
 
-노윤헌: (Dataset Construction)
+[노윤헌](https://github.com/gs18040): (Dataset Construction)
 - Collected Olympiad-level math problems
 - Implemented web scraping for dataset collection
 
