@@ -72,6 +72,6 @@ Budget: 900.00 seconds | Deadline: 1771434452.45
 - Collected Olympiad-level math problems
 - Implemented web scraping for dataset collection
 
-정성윤: (Result Analysis)
+[정성윤](https://github.com/zeroplam5): (Result Analysis)
 - Implemented CoT logging
 - Documented experimental findings
